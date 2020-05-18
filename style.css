@@ -1,0 +1,11 @@
+#logo {
+    width: 60px;
+    height: 60px;
+}
+.navbar-brand{
+    margin-left: 0px;
+}
+
+#login-screen{
+    display: none;
+}
