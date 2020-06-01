@@ -9,3 +9,43 @@
 #login-screen{
     display: none;
 }
+
+#intro{
+
+    width: 70%;
+    height: auto;
+    margin-right: 32px;
+
+}
+
+#login{
+    width: 80%;
+    height: auto;
+    align-content: center;
+}
+
+#login form{
+    padding-top: 32px;
+
+}
+
+#send{
+    color: blue ;
+    background: white;
+    width: 50%;
+    height: 40px;
+    margin-top: 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+input {
+    width: 50%;
+    border-radius: 6px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
